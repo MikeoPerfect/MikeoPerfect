@@ -2,7 +2,8 @@
 
 🌱 I’m currently learning ...
 
-![home_page](https://user-images.githubusercontent.com/37768864/91845674-20e9ef00-ec8c-11ea-81d6-d66bec7837d0.png)
+![qrcode_blog mikeoperfect com](https://user-images.githubusercontent.com/37768864/134929876-a3a56222-6f41-40e0-abc3-c2e7933f372d.png)
+
 
 
 
